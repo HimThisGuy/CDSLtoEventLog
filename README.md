@@ -1,9 +1,10 @@
 # CDSLtoEventLog
+**Article Title:** *Improving Hospital Process Management through Process Mining: A Case Study on COVID-19 Clinical Pathways* \
 **Authors**: Ardimento Pasquale, Bernardi Mario Luca, Cimitile Marta, La Torre Samuele \
 **Article DOI**: TBD
 
 ### Abstract
-[Paste Abstract Here]
+This study analyzes COVID-19 care pathways using the COVID Data for Shared Learning dataset. We build a transparent, reproducible pipeline that transforms heterogeneous clinical tables into a process mining-ready event log and applies discovery, declarative conformance checking, and outcome analysis. The reconstructed pathways highlight the monitoring backbone of inpatient care, variability at the Emergency department-admission interface, and outcome differences driven by age and exposure to intensive care units. These insights support triage standardization, capacity planning, and step-down coordination from intensive care units to lower-acuity wards, showing how process mining can inform evidence-based hospital governance.
 
 ### Repository Contents
 This repository implements the event log extraction pipeline for the **Covid Data for Shared Learning (CDSL)** dataset.
